@@ -1,2 +1,2 @@
-# AltMusRus.github.io
+# AltMusRus
 site is developed by everest
